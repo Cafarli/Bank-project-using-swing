@@ -1,5 +1,5 @@
 # SmartBank
-###Java, Mysql
+### Java, Mysql
 #### User can do withdraw, deposit, tranfer operations. Also she/he can pay electric, gas,interner, water bills.
 ##### The photos of some parts of project :
 > Login screen photo :
