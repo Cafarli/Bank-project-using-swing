@@ -1,6 +1,6 @@
 # SmartBank
-## User can do withdraw, deposit, tranfer operations. Also she/he can pay electric, gas,interner, water bills.
-### The photos of some parts of project :
+#### User can do withdraw, deposit, tranfer operations. Also she/he can pay electric, gas,interner, water bills.
+##### The photos of some parts of project :
 > Login screen photo :
 ![Ekran Görüntüsü (50)](https://user-images.githubusercontent.com/80145532/125034618-d7cfac00-e0a1-11eb-9874-7b5e10540dbd.png)
 
